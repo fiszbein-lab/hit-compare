@@ -27,5 +27,5 @@ index_matrix, id_matrix = get_matrices(locus_to_exon1, locus_to_exon2)
 ```
 
 `index_matrix` and `id_matrix` can then be visualized with modules
-such as [matplotlib.pyplot.imshow](http://matplotlib.pyplot.imshow) or 
+such as [matplotlib.pyplot.imshow](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow.html) or 
 [seaborn.heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html). 
